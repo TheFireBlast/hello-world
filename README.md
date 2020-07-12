@@ -7,4 +7,4 @@
 </a>
 <hr>
 
-hello <!-- world -->
+Hello world
